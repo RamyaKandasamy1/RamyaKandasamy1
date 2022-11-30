@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @RamyaKandasamy1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-
-### <div align="center">I'm RAMYA </div>  
+### <div align="center">I'm RAMYA 3+ experience in DataWarehousing </div>  
   
 
 - 🔭 I’m currently looking for jobs
@@ -17,7 +11,7 @@
 - ❓ Ask me about anything related to DataWarehousing  
   
 
-- ⚡ Fun fact: 
+- ⚡ Certifications: Java , Az900 
   
 
 <br/>  
