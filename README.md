@@ -22,6 +22,7 @@
 
 
 <div align="center">  
+  <a href="https://www.microstrategy.com/en" target="_blank"> MicroStrategy</a> <br/>
 <a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> Java</a> <br/>
 <a href="https://www.mysql.com" target="_blank"> MySql</a> </br>
   <a href="https://en.wikipedia.org/wiki/Data_warehouse"> DataWarehousing</a></br>
@@ -33,3 +34,4 @@
 
 
   
+[![My Skills](https://skillicons.dev/icons?i=java,azure,mysql,gcp&theme=light)](https://skillicons.dev)
