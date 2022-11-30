@@ -23,4 +23,4 @@
 
 ### Frontend  
 <div align="center">  
-<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"><img style="margin: 10px"  alt="Java" height="50" /></a> 
+<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> Java</a> 
