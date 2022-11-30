@@ -21,6 +21,15 @@
 
 
 
-### Frontend  
 <div align="center">  
-<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> Java</a> 
+<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"> Java</a> <br/>
+<a href="https://www.mysql.com" target="_blank"> MySql</a> </br>
+  <a> DataWarehousing</a></br>
+   <a> DB2</a></br>
+     <a> GCP</a></br>
+       <a>AZ900</a></br>
+  
+  </div>
+
+
+  
