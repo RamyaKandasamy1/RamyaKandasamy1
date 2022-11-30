@@ -15,3 +15,12 @@
   
 
 <br/>  
+
+### <div align="Left">   My Skill Set  </div>
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://www.java.com/en/download/help/whatis_java.html" target="_blank"><img style="margin: 10px" src="" alt="Java" height="50" /></a> 
