@@ -38,3 +38,5 @@
 ![Profile views](https://gpvc.arturio.dev/RamyaKandasamy1)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RamyaKandasamy1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=RamyaKandasamy1)  
