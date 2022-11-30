@@ -30,9 +30,9 @@
 [![My Skills](https://skillicons.dev/icons?i=java,azure,mysql,gcp&theme=light)](https://skillicons.dev)
 </div>
 </table></br>
-<div align="center">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/RamyaKandasamy1)
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/RamyaKandasamy/)
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ramz28la/)  
 
-</div>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/RamyaKandasamy1)
+ <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/RamyaKandasamy/)
+ <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>(https://www.instagram.com/ramz28la/)  
+
+
