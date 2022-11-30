@@ -1,6 +1,7 @@
 
 ### <div align="center">I'm Ramya having 3+ years of experience in DataWarehousing </div>  
-  
+ 
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RamyaKandasamy1?cardType=github)](https://git.io/awesome-stats-card)
 
 - 🔭 I’m currently looking for jobs
   
@@ -12,7 +13,6 @@
   
 
 - ⚡ Certifications: Java , Az900 
-  
 
 <br/>  
 
@@ -35,3 +35,5 @@
 
   
 [![My Skills](https://skillicons.dev/icons?i=java,azure,mysql,gcp&theme=light)](https://skillicons.dev)
+
+
