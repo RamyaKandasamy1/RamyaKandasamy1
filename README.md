@@ -3,16 +3,9 @@
  
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RamyaKandasamy1?cardType=github)](https://git.io/awesome-stats-card)
 
-- 🔭 I’m currently looking for jobs
-  
-
-- 🌱 I’m currently learning Java and AI 
-  
-
-- ❓ Ask me about anything related to DataWarehousing  
-  
-
-- ⚡ Certifications: Java , Az900 
+  - 🌱 I’m currently learning Java and AI 
+  - ❓ Ask me about anything related to DataWarehousing  
+  - ⚡ Certifications: Java , Az900 
 
 <br/>  
 
