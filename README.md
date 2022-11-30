@@ -6,6 +6,8 @@
   - 🌱 I’m currently learning Java and AI 
   - ❓ Ask me about anything related to DataWarehousing  
   - ⚡ Certifications: Java , Az900 
+# My Example Work
+<img src="" width=250>
 
 <br/>  
 
